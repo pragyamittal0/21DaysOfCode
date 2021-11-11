@@ -7,3 +7,8 @@
   	  2.3 for marks above 70 and less than equal to 80, print fair.
   	  2.4 for marks above 60 and less than equal to 70, print meets expectations.
   	  2.5 for marks less than equal to 60, print below par.
+#### Is A Number Prime
+1. You've to check whether a given number is prime or not.
+2. Take a number "t" as input representing count of input numbers to be tested.
+3. Take a number "n" as input "t" number of times.
+4. For each input value of n, print "prime" if the number is prime and "not prime" otherwise.
