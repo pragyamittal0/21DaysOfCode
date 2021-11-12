@@ -4,3 +4,7 @@
 2. Take a number "t" as input representing count of input numbers to be tested.
 3. Take a number "n" as input "t" number of times.
 4. For each input value of n, print "prime" if the number is prime and "not prime" otherwise.
+##### Fibonacci
+1. You've to print first n fibonacci numbers.
+2. Take as input "n", the count of fibonacci numbers to print.
+3. Print first n fibonacci numbers.
