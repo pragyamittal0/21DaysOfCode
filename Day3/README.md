@@ -21,7 +21,5 @@
 2. Take as input a number n, representing the number of bulbs.
 3. Print all the bulbs that will be on after the nth fluctuation in voltage.
 ##### Pattern 1 
-[*
-* *
-* * *
-* * * *]
+![image](https://user-images.githubusercontent.com/69578414/141651039-8f3d416c-9caf-4733-8301-169010482b2a.png)
+
