@@ -12,3 +12,7 @@
 2. You are also required to print the Lowest Common Multiple (LCM) of the same numbers.
 3. Take input "num1" and "num2" as the two numbers.
 4. Print their GCD and LCM.
+##### Prime Factorization
+1. You are required to display the prime factorization of a number.
+2. Take as input a number n.
+3. Print all its prime factors from smallest to largest
