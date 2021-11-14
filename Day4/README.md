@@ -9,3 +9,6 @@
 ![image](https://user-images.githubusercontent.com/69578414/141685726-c5e048c7-48b7-4fae-b314-8afae6ba068c.png)
 
 ##### Pattern 5
+![image](https://user-images.githubusercontent.com/69578414/141686963-865bf6f2-f193-47f9-87d9-ab2a0375b503.png)
+
+##### Pattern 6
