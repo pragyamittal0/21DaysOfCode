@@ -15,3 +15,4 @@
 ![image](https://user-images.githubusercontent.com/69578414/141687121-9d6cf99b-af04-4e64-8a39-e56bd4ea6988.png)
 
 ##### Pattern 7
+![image](https://user-images.githubusercontent.com/69578414/141690302-fe3f409a-da2f-4ebd-9edd-6272bf10b824.png)
