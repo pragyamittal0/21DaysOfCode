@@ -4,3 +4,6 @@
 
 ###### Pattern9
 ![image](https://user-images.githubusercontent.com/69578414/142447155-0029693d-22fc-4103-9288-1591bf279e88.png)
+
+###### Pattern10
+![image](https://user-images.githubusercontent.com/69578414/142453551-a5846c22-193a-4ae8-bb44-598ee706b8ba.png)
