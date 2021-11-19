@@ -11,3 +11,7 @@
 
 ###### Pattern14
 ![image](https://user-images.githubusercontent.com/69578414/142580634-bf2ea701-0fc7-4ce0-a945-eeff11ff3e6a.png)
+
+###### Pattern15
+![image](https://user-images.githubusercontent.com/69578414/142587912-88b7b496-5acf-4eaf-b2fa-a95bbcef8aa3.png)
+
