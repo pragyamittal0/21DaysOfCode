@@ -8,3 +8,6 @@
 
 ###### Pattern13
 ![image](https://user-images.githubusercontent.com/69578414/142578619-92687dd7-5e9b-4283-a27d-9676452355f3.png)
+
+###### Pattern14
+![image](https://user-images.githubusercontent.com/69578414/142580634-bf2ea701-0fc7-4ce0-a945-eeff11ff3e6a.png)
