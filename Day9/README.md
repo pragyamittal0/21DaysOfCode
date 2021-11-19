@@ -6,3 +6,5 @@
 ###### Pattern12
 ![image](https://user-images.githubusercontent.com/69578414/142574775-80f232f4-7df2-4d28-9920-6ba81252b68b.png)
 
+###### Pattern13
+![image](https://user-images.githubusercontent.com/69578414/142578619-92687dd7-5e9b-4283-a27d-9676452355f3.png)
