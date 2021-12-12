@@ -23,3 +23,4 @@
 ##### Pattern 1 
 ![image](https://user-images.githubusercontent.com/69578414/141651039-8f3d416c-9caf-4733-8301-169010482b2a.png)
 
+![sass](https://user-images.githubusercontent.com/69578414/145720451-1ee3671f-3e32-4858-a9a2-f5c952d1fb78.png)
