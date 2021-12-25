@@ -9,3 +9,8 @@
 2.You are given n distinct numbers, representing elements of array a.
 3. You are given another number d.
 4. You are required to check if d number exists in the array a and at what index (0 based). If found print the index, otherwise print -1
+
+###### Wave Traversal
+1. You will be given a number n, representing the number of rows.
+2. You will be given a number m, representing the number of columns.
+3. You will be given n*m numbers, representing elements of 2d arrays.
