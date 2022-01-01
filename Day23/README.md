@@ -25,7 +25,7 @@ Refer to the photo for a better clarification.
 3. You are required to diagonally traverse the upper half of the matrix and print the contents.
 For details check image.
 
-###### Saddle price
+###### Saddle point
 1. You are given a square matrix of size 'n'. You are given n*n elements of the square matrix. 
 2. You are required to find the saddle price of the given matrix and print the saddle price. 
 3. The saddle price is defined as the least price in the row but the maximum price in the column of the matrix.
