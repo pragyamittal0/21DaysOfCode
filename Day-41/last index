@@ -11,8 +11,8 @@ public class Main {
       arr[i] = scn.nextInt();
     }
     int x = scn.nextInt();
-    ` int li = lastIndex(arr, 0, x);
-    `System.out.println(li);
+    int li = lastIndex(arr, 0, x);
+    System.out.println(li);
   }
   public static int lastIndex(int[] arr, int idx, int x) {
     if (idx == arr.length) {
